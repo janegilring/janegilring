@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Azure, Terraform and PowerShell
-- 🌱 I’m currently learning Kubernetes
+- 🔭 I’m currently working on Azure, Kubernetes, Terraform and PowerShell
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about infrastructure automation
 - 📫 How to reach me: [Twitter](https://twitter.com/janegilring), [LinkedIn](https://www.linkedin.com/in/janegilring/), [Website](https://www.powershell.no)
 
